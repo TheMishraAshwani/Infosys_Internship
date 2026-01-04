@@ -3,7 +3,7 @@
 
 ## About
 
-Welcome to the Plant Disease Classification project! This repository is dedicated to developing a machine learning model that accurately identifies and classifies various plant diseases using image recognition techniques. With the increasing importance of agriculture and the need for sustainable farming practices, early detection of plant diseases is crucial for minimizing crop loss and ensuring food security.
+Welcome to the Plant Disease Classification project! This repository is dedicated to my project assigned me during tenure of my internship at Infosys_springboard for  developing a machine learning model that accurately identifies and classifies various plant diseases using image recognition techniques. With the increasing importance of agriculture and the need for sustainable farming practices, early detection of plant diseases is crucial for minimizing crop loss and ensuring food security.
 
 ### Objectives
 
