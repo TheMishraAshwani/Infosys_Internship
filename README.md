@@ -30,6 +30,6 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ### Acknowledgments
 
-We would like to thank the contributors and researchers in the field of plant pathology and machine learning for their invaluable work, which has inspired this project.
+I would like to thank the contributors and the mentors assigned to me in Infosys Springboard Internship for the field of plant pathology and machine learning for their invaluable work, which has inspired this project.
 
 ---
